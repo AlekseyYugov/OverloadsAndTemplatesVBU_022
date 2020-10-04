@@ -1,0 +1,12 @@
+﻿  main.cpp
+C:\Users\Лошка\source\repos\OverloadsAndTemplatesVBU_022\OverloadsAndTemplatesVBU_022\main.cpp(13,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\Лошка\source\repos\OverloadsAndTemplatesVBU_022\OverloadsAndTemplatesVBU_022\main.cpp(33,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Лошка\source\repos\OverloadsAndTemplatesVBU_022\OverloadsAndTemplatesVBU_022\main.cpp(41,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Лошка\source\repos\OverloadsAndTemplatesVBU_022\OverloadsAndTemplatesVBU_022\main.cpp(51,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Лошка\source\repos\OverloadsAndTemplatesVBU_022\OverloadsAndTemplatesVBU_022\main.cpp(59,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Лошка\source\repos\OverloadsAndTemplatesVBU_022\OverloadsAndTemplatesVBU_022\main.cpp(65,6): error C2084: функция "void FillRand(int [],const int)" уже имеет текст реализации
+C:\Users\Лошка\source\repos\OverloadsAndTemplatesVBU_022\OverloadsAndTemplatesVBU_022\main.cpp(31): message : см. предыдущее определение "FillRand"
+C:\Users\Лошка\source\repos\OverloadsAndTemplatesVBU_022\OverloadsAndTemplatesVBU_022\main.cpp(67,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Лошка\source\repos\OverloadsAndTemplatesVBU_022\OverloadsAndTemplatesVBU_022\main.cpp(74,6): error C2084: функция "void Print(int [],const int)" уже имеет текст реализации
+C:\Users\Лошка\source\repos\OverloadsAndTemplatesVBU_022\OverloadsAndTemplatesVBU_022\main.cpp(49): message : см. предыдущее определение "Print"
+C:\Users\Лошка\source\repos\OverloadsAndTemplatesVBU_022\OverloadsAndTemplatesVBU_022\main.cpp(76,23): warning C4018: <: несоответствие типов со знаком и без знака
